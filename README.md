@@ -1,5 +1,4 @@
 # 50 projects Challenge
- 50 projects challenge
 
 | Project | Demo Link  |
 | :----------------------------- | :-------------------------------- | 

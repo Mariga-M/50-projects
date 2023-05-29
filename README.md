@@ -13,4 +13,5 @@
 | 09. Sound Board | https://sound-board-cm.netlify.app/ |
 | 10. Animated nav | https://animated-nav-cm.netlify.app/ |
 | 11. Event keycodes | https://event-keycode-cm.netlify.app/ |
-| 12. FAQs |https://faqs-cm.netlify.app/ |
+| 12. FAQs | https://faqs-cm.netlify.app/ |
+| 13. Random choice Picker | https://random-choice-picker-cm.netlify.app/ 

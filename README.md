@@ -18,3 +18,8 @@
 | 13. Random choice Picker | https://random-choice-picker-cm.netlify.app/ |
 | 14. Increment Counter | https://increment-counter-cm.netlify.app/ |
 | 15. Drink Water | https://drink-water-cm.netlify.app/ |
+| 17. Background Slider | https://background-slider-cm.netlify.app/ |
+
+
+ 
+

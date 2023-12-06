@@ -20,7 +20,6 @@
 | 15. Drink Water | https://drink-water-cm.netlify.app/ |
 | 17. Background Slider | https://background-slider-cm.netlify.app/ |
 | 18. Drag and Drop | https://drag-n-drop-cm.netlify.app/ |
+| 19. Theme Clock | https://theme-clock-cm.netlify.app/ |
 
-
- 
 

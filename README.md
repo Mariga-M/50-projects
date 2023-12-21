@@ -18,8 +18,24 @@
 | 13. Random choice Picker | https://random-choice-picker-cm.netlify.app/ |
 | 14. Increment Counter | https://increment-counter-cm.netlify.app/ |
 | 15. Drink Water | https://drink-water-cm.netlify.app/ |
+| 16. Movie App | https://movie-hub-cm.netlify.app/  |
 | 17. Background Slider | https://background-slider-cm.netlify.app/ |
 | 18. Drag and Drop | https://drag-n-drop-cm.netlify.app/ |
 | 19. Theme Clock | https://theme-clock-cm.netlify.app/ |
+| 20. Kinetic CSS Loader | https://kinetic-loader-cm.netlify.app/ |
+| 21. Content Placeholder | https://content-placeholder-cm.netlify.app/ |
+| 22. Toasts | https://toast-notification-cm.netlify.app/ |
+| 23. Auto Text Effect | https://auto-text-effect-cm.netlify.app/ |
+| 24. Button Ripple Effect | https://button-ripple-effect-cm.netlify.app/ |
+| 25. Hoverboard | https://hoverboard-cm.netlify.app/ |
+| 26. Dad Jokes | https://dad-jokes-cm.netlify.app/ |
+| 27. Random Image Feed | https://random-image-feed-cm.netlify.app/  |
+| 28. Password Strength Background | https://password-strength-background-cm.netlify.app/ |
+| 29. Drawing App | https://drawing-app-cm.netlify.app/ |
+| 30. Double Heart Click | https://double-heart-click-cm.netlify.app/ |
+| 31. Sticky Navbar | https://sticky-nav-cm.netlify.app/ |
+| 32. Double Vertical Slider | https://double-vertical-slider-cm.netlify.app/ |
+
+
 
 

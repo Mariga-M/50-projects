@@ -35,6 +35,8 @@
 | 30. Double Heart Click | https://double-heart-click-cm.netlify.app/ |
 | 31. Sticky Navbar | https://sticky-nav-cm.netlify.app/ |
 | 32. Double Vertical Slider | https://double-vertical-slider-cm.netlify.app/ |
+| 33. Github Profiles | https://github-profiles-cm.netlify.app/ |
+
 
 
 

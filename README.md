@@ -36,6 +36,11 @@
 | 31. Sticky Navbar | https://sticky-nav-cm.netlify.app/ |
 | 32. Double Vertical Slider | https://double-vertical-slider-cm.netlify.app/ |
 | 33. Github Profiles | https://github-profiles-cm.netlify.app/ |
+| 34. Verify account UI | https://verify-account-ui-cm.netlify.app/ |
+| 35. Quiz App | https://quiz-app-cm.netlify.app/ |
+| 36. Password Generator | https://password-generator-cm.netlify.app/ |
+| 37. Good, Cheap, Fast | https://good-cheap-fast-cm.netlify.app/ |
+
 
 
 

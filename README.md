@@ -43,6 +43,9 @@
 | 38. Notes app | https://notes-app-cm.netlify.app/ |
 | 39. Animated Countdown | https://animated-countdown-cm.netlify.app/ |
 | 40. Image Carousel | https://image-carousel-cm.netlify.app/ |
+| 41. Mobile Tab Nav | https://mobile-tab-nav-cm.netlify.app/ |
+| 43. User Filter | https://live-user-filter-cm.netlify.app/ |
+| 44. Feedback Card | https://feedback-card-cm.netlify.app/ |
 
 
 

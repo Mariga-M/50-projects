@@ -46,6 +46,7 @@
 | 41. Mobile Tab Nav | https://mobile-tab-nav-cm.netlify.app/ |
 | 43. User Filter | https://live-user-filter-cm.netlify.app/ |
 | 44. Feedback Card | https://feedback-card-cm.netlify.app/ |
+| 45. Custom Range Slider | https://custom-range-slider-cm.netlify.app/ |
 | 47. Menu Nav | https://menu-nav-cm.netlify.app/ |
 
 

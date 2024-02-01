@@ -47,7 +47,12 @@
 | 43. User Filter | https://live-user-filter-cm.netlify.app/ |
 | 44. Feedback Card | https://feedback-card-cm.netlify.app/ |
 | 45. Custom Range Slider | https://custom-range-slider-cm.netlify.app/ |
+| 46. 3D background boxes | https://3d-background-boxes-cm.netlify.app/ |
 | 47. Menu Nav | https://menu-nav-cm.netlify.app/ |
+| 48. Testimonial box switcher | https://testimonial-box-cm.netlify.app/ |
+| 49. Todo App | https://todo-cm.netlify.app/ |
+
+
 
 
 

@@ -51,6 +51,7 @@
 | 47. Menu Nav | https://menu-nav-cm.netlify.app/ |
 | 48. Testimonial box switcher | https://testimonial-box-cm.netlify.app/ |
 | 49. Todo App | https://todo-cm.netlify.app/ |
+| 50. Insect Catch Game | https://insect-catch-game-cm.netlify.app/ |
 
 
 

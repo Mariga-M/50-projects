@@ -44,6 +44,7 @@
 | 39. Animated Countdown | https://animated-countdown-cm.netlify.app/ |
 | 40. Image Carousel | https://image-carousel-cm.netlify.app/ |
 | 41. Mobile Tab Nav | https://mobile-tab-nav-cm.netlify.app/ |
+| 42. Calculator | https://calculator-cm.netlify.app/ |
 | 43. User Filter | https://live-user-filter-cm.netlify.app/ |
 | 44. Feedback Card | https://feedback-card-cm.netlify.app/ |
 | 45. Custom Range Slider | https://custom-range-slider-cm.netlify.app/ |
